@@ -1,2 +1,14 @@
 # Tibetan-keyboard-for-mac-os
-Himalaya Tibetan Keyboard for  Mac OS 
+   苹果Mac os x 系统喜马拉雅藏文输入法
+   
+     Himalaya Tibetan Keyboard for  Mac OS 
+     
+## 安装
+博客地址：<https://www.zangko.com/2019/09/13/tibetankeyboard/>
+
+
+## མཚན་སྦྱོར།
+ཀུ་ཤུ་མ་ལག་ནང་དུ་ཧི་མ་ལ་ཡའི་མཐེབ་གཞོང་དེ་སྐུ་ཞབསLiu Shiཡིས་2011ལོར་གསར་བཟོས་བྱེད་པ་རེད། དེ་མིན་བོད་ཡིག་བརྡ་འཕྲིན་ལག་རྩལ་དྲ་བས་ཀྱང་སྒྲིག་བཟོས་བྱས་ཡོད། <https://www.tibetitw.com/himalaya-keyboard-for-mac> 
+གོང་གི་མཉེན་ཆས་དེ་གཉིས་ནང་འཇུག་བྱེད་དཀའ་བས་ཆེད་དུ་གསར་སྒྱུར་བྱེད་པ་ཡིན།
+### གསལ་བཤད། 
+མཉེན་ཆས་འདི་ནི་རིན་མེད་མཁོ་སྤྲོད་ཡིན་པས་ཚོང་གི་ཕྱོགས་སུ་སྤྱོད་མི་རུང་།
