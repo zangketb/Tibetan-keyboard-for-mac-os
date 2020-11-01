@@ -12,7 +12,7 @@
 གོང་གི་མཉེན་ཆས་དེ་གཉིས་ནང་འཇུག་བྱེད་དཀའ་བས་ཆེད་དུ་གསར་སྒྱུར་བྱེད་པ་ཡིན།
 ### གསལ་བཤད། 
 མཉེན་ཆས་འདི་ནི་རིན་མེད་མཁོ་སྤྲོད་ཡིན་པས་ཚོང་གི་ཕྱོགས་སུ་སྤྱོད་མི་རུང་།
-#### 关于Mac快捷键无法使用是的补充
+#### 关于Mac快捷键无法使用的补充
 	<modifierMap id="commonModifiers" defaultIndex="4">
 		<keyMapSelect mapIndex="0">
 			<modifier keys="anyShift? caps? command"/>
