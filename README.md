@@ -4,7 +4,7 @@
      Himalaya Tibetan Keyboard for  Mac OS 
      
 ## 安装
-博客地址：<https://www.zangko.com/2019/09/13/tibetankeyboard/>
+下载地址：<https://github.com/zangketb/Tibetan-keyboard-for-mac-os/releases/tag/1.1>
 
 
 ## མཚན་སྦྱོར།
